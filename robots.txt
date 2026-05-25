@@ -1,0 +1,19 @@
+# robots.txt – Lumos Education
+# https://lumos-education.hr/
+
+User-agent: *
+Allow: /
+
+Sitemap: https://lumos-education.hr/sitemap.xml
+
+User-agent: GPTBot
+Allow: /
+
+User-agent: ClaudeBot
+Allow: /
+
+User-agent: PerplexityBot
+Allow: /
+
+User-agent: Google-Extended
+Allow: /
